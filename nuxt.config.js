@@ -3,6 +3,9 @@ export default {
   router:{
     base:'/360-sample/'
   },
+  generate:{
+    dir:'docs'
+  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: '360-stuf',
