@@ -1,0 +1,23 @@
+{
+  "name": "360-stuf",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "360-image-viewer": "^1.0.1",
+    "@vue/composition-api": "^1.0.0-rc.12",
+    "canvas-fit": "^1.5.0",
+    "core-js": "^3.9.1",
+    "nuxt": "^2.15.3",
+    "tailwindcss": "^2.2.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^4.0.1",
+    "postcss": "^8.2.8"
+  }
+}
